@@ -5,6 +5,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class DemoApplicationTests {
+	String s1="Jeevan";
 	int x=80;
 	int y=45;
 	boolean isSub=true;
