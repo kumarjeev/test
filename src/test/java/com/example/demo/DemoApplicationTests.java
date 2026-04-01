@@ -5,6 +5,12 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class DemoApplicationTests {
+	int x=90;
+	int y=89;
+	int x=90;
+	int y=89;
+	int x=90;
+	int y=89
 	int v=8;
 	String s2="kamn";
 	String s1="Jeevan";
